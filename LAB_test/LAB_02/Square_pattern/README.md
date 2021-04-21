@@ -1,10 +1,3 @@
 # Square_pattern
 
-Problem : Generate the following output using nested for loops.
-
-
-* .     * * * * *
-	*       *
-	*  	*
-	*     	*
-	* * * * *
+Problem : Generate the square pattern output using nested for loops.
