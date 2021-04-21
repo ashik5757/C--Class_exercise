@@ -22,7 +22,7 @@ int main()
     printf("\n Ans: %d",x);
     
     
-    
+   
     
     return 0;
 }
