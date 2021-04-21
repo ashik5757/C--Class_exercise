@@ -1,6 +1,6 @@
 # LAB_TEST Catagory
 
-* LAB_01-- Basic C programme
+* **LAB_01--** Basic C programme
 * LAB_02-- Loop & Statement
 * LAB_03-- Mathematical Calculation
 * LAB_04-- Function & Recursion
