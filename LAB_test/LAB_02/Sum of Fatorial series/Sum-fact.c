@@ -21,7 +21,7 @@ int main()
     }
     
  
-    
+   
     printf("\n  Sum : %.3f",sum);
     
  
